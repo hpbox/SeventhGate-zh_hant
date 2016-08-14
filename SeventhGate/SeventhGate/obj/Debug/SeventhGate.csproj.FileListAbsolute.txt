@@ -1,0 +1,12 @@
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\bin\Debug\SeventhGate.exe
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\bin\Debug\SeventhGate.pdb
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\bin\Debug\Interop.NETCONLib.dll
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\Interop.NETCONLib.dll
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.csproj.ResolveComReference.cache
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.DebugWindow.resources
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.MainWindow.resources
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.Properties.Resources.resources
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.csproj.GenerateResource.Cache
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.exe
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\obj\Debug\SeventhGate.pdb
+D:\home\Hipponet\Mydocs\SDK\program\seventhgate\seventhgate-19717\SeventhGate\SeventhGate\bin\Debug\SeventhGate.exe.config
