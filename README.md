@@ -1,5 +1,5 @@
 # SeventhGate
-This is a fork of https://seventhgate.codeplex.com/ with UX translated into Traditional Chinese.
+This is a fork of https://seventhgate.codeplex.com/ with UI translated into Traditional Chinese.
 
 SeventhGate enables Windows 7 and Server 2008R2 computers with wireless network card to turn into simple wireless routers. SeventhGate waits in system tray for You to start the network. If no longer needed, just turn it off and let Your machine free up all the resources.
 The idea of wireless hosted network (proper name of Windows feature utilized by SeventhGate) is described here: http://msdn.microsoft.com/en-us/library/dd815243(VS.85).aspx
